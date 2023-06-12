@@ -11703,7 +11703,7 @@ const Op = Object.assign(Object.assign({}, ae.props), {
         baseUrl: "https://sydney.bing.com",
         label: "Bing 官方"
       }, {
-        baseUrl: "https://wss.batu0991.cc/",
+        baseUrl: "https://wss.batu0991.cc",
         label: "Cloudflare"
       }, {
         baseUrl: location.origin,
